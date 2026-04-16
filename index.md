@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
-[] This is wombats team!
+# This is Wombats team!
 ---
